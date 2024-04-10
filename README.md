@@ -2,6 +2,8 @@
 
 Portfolio Website built in ReactJS.
 
+## Step by Step process in PDF(portfolio.pdf)
+
 ## Installation
 
 - grab the repo
@@ -19,6 +21,8 @@ Portfolio Website built in ReactJS.
 - make sure you set the folder to deploy as `build`
 - say no to changing links for a single page app
 - run `firebase deploy` to deploy to your account
+
+  
 
 ## License
 
