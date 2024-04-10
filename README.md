@@ -2,7 +2,7 @@
 
 Portfolio Website built in ReactJS.
 
-## Step by Step process in PDF(portfolio.pdf)
+## Step by Step process in PDF(portfolio doc.pdf)
 
 ## Installation
 
